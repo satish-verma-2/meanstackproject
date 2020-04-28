@@ -1,0 +1,6 @@
+local.sh
+node_modules
+.serverless
+.history
+.webpack
+.DS_Store
